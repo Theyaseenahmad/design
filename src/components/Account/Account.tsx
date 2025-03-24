@@ -5,7 +5,7 @@ const Account = () => {
     <div className="w-[375px] h-[812px] bg-[#F7F8F9] [background-clip:padding-box] relative">
         <div className="w-full h-[68px] bg-white p-6">Account Settings</div>
         <div className="flex gap-4  justify-start p-6">
-            <div className="rounded-full bg-red-400 size-14  relative">
+            <div className="rounded-full  size-14  relative">
                 <img className="h-full w-full object-cover" src="/dp.png" alt="" />
                 <img className="absolute size-6 -right-1 -bottom-1" src="/cam.svg" alt="" />
             </div>
